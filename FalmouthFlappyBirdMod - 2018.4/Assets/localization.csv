@@ -1,0 +1,37 @@
+Key,Description,Standard
+SAY.Flowchart.75.JOHN,,{t}(Do I really want to do this?){/t}
+MENU.Flowchart.76,,Drink the coffee
+MENU.Flowchart.77,,Don't drink the coffee
+SAY.Flowchart.0.SHERLOCK,,{answer}Excellent.
+SAY.Flowchart.1.SHERLOCK,,All right. It's been 30 minutes. How do you feel?
+SAY.Flowchart.20.JOHN,,{worried}Like an idiot who should stop encouraging you.
+SAY.Flowchart.21.SHERLOCK,,"No, that's not right."
+SAY.Flowchart.45.SHERLOCK,,{shout}No nausea? {shout}Dizziness? {shout}Feeling of sudden and impending doom?
+SAY.Flowchart.22.JOHN,,"Wait, {question}{flash=0.1}what?"
+SAY.Flowchart.23.SHERLOCK,,Hmm... I'll have to revise my {clue}hypothesis…
+SAY.Flowchart.2.JOHN,,"No thanks. The last time I drank your coffee, I spent the day running from an imaginary dog."
+SAY.Flowchart.3.SHERLOCK,,"The hallucinogen was in the {answer}gas, not the coffee."
+SAY.Flowchart.4.JOHN,,"{shout}Still not ok{wp},{/wp} Sherlock!"
+SAY.Flowchart.5.SHERLOCK,,Suit yourself.
+SAY.Flowchart.6.,,THE EXPERIMENT
+SAY.Flowchart.58.SHERLOCK,,"Ah John, {pleased}there you are."
+SAY.Flowchart.7.JOHN,,"{confused}I do live here, you know."
+SAY.Flowchart.8.SHERLOCK,,{answer}{flash=0.1}Well you arrived at just the right time.
+SAY.Flowchart.30.SHERLOCK,," Here, I need you to drink this."
+SAY.Flowchart.9.JOHN,,{worried}... Why?
+SAY.Flowchart.10.SHERLOCK,,It's for an experiment.
+SAY.Flowchart.35.SHERLOCK,, Don't worry. It won't kill you.
+SAY.Flowchart.11.JOHN,,{clue}Your words inspire such confidence.
+SAY.Flowchart.12.JOHN,,Why don't you test it yourself?
+SAY.Flowchart.13.SHERLOCK,,{question}I can't observe the effects of the experiment if I'm the one participating.
+SAY.Flowchart.74.JOHN,,Of course.
+SAY.Flowchart.102.,,{t}Changed your mind?{/t}
+MENU.Flowchart.103,,Yes
+MENU.Flowchart.104,,No
+SAY.Flowchart.80.JOHN,,(What should I do now?)
+MENU.Flowchart.78,,Talk to Sherlock.
+MENU.Flowchart.79,,Leave
+SAY.Flowchart.66.JOHN,,Right.... Good luck with that.
+SAY.Flowchart.70.,,Your {stat-up}courage{/stat-up} has increased!
+CHARACTER.SHERLOCK,,SHERLOCK
+CHARACTER.JOHN,,JOHN
